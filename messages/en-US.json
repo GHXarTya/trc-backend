@@ -1,0 +1,319 @@
+{
+  "Metadata": {
+    "title": "Thyroid cancer",
+    "description": "A malignant thyroid tumor originating from follicular or C-cells of the thyroid gland and is the most common malignant neoplasm among other organs of the endocrine system."
+  },
+  "Header": {
+    "appointment": {
+      "name": "Your Name *",
+      "phone": "Your phone *",
+      "email": "Your email",
+      "action": {
+        "book": {
+          "default": "Book an appointment",
+          "time": "Book an appointment at {time}"
+        },
+        "continue": "Continue the appointment",
+        "call": "Call me back",
+        "repeat": "Try again"
+      },
+      "error": {
+        "schedule": "The schedule for this day could not be loaded. Please try again",
+        "appointment": "An appointment could not be made. Please try again",
+        "occupied": "The selected time is already taken. Please try again",
+        "call": "The request could not be registered. Please try again"
+      },
+      "warning": {
+        "schedule": "There is no availability on the selected date. Please select another date"
+      },
+      "result": {
+        "title": "Thank you!",
+        "description": {
+          "appointment": "Your appointment is on {date}.",
+          "call": "We will call you back to clarify the details."
+        },
+        "action": "Close"
+      }
+    },
+    "action": "Up"
+  },
+  "Sections": {
+    "Hero": {
+      "title": "About cancer\nOf the thyroid gland",
+      "description": "The <important>Butterfly Effect</important> project by <important>IBD.Team Group</important> is dedicated to\nhelping patients with thyroid disease live a full life. We believe\nthat these people can and should feel better and lead\na normal life without disease symptoms.",
+      "action": "Learn more"
+    },
+    "Hyper": {
+      "title": "Links"
+    },
+    "News": {
+      "title": "News",
+      "newsfeed": {
+        "1": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - we'll get over\ncancer once!",
+          "action": "Read more",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        },
+        "2": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - we'll get over\ncancer once!",
+          "action": "Read more",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        },
+        "3": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - we'll get over\ncancer once!",
+          "action": "Read more",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        }
+      }
+    },
+    "Test": {
+      "title": "Is your\nthyroid gland healthy?",
+      "description": "In the early stages of cancer, a person may not feel any\nsymptoms. That is why it is so important to detect the\ndisease at an early stage.",
+      "action": {
+        "start": "Take the test",
+        "end": "Book an appointment"
+      },
+      "active": {
+        "title": {
+          "start": "Question",
+          "end": "Test results"
+        },
+        "questions": {
+          "1": "Do you have difficulty swallowing or a feeling of a \"lump in the throat\"?",
+          "2": "Have you noticed dry skin, brittle hair or hair loss lately?",
+          "3": "Do you have menstrual irregularities?",
+          "4": "Do you have long-term (more than two days) bowel problems (constipation or diarrhea)?",
+          "5": "Have you been feeling tired lately, even after a good night's sleep?",
+          "6": "Did any of your close relatives have thyroid problems?",
+          "7": "Do you experience unreasonable emotional outbursts: increased irritability, tearfulness, etc.?",
+          "8": "Do you often experience tremors in your hands and body?",
+          "9": "Have you noticed any unexplained weight fluctuations in one direction or another lately?",
+          "10": "Have you noticed that you are looking worse? Do you notice puffiness of the face or swelling under the eyelids?",
+          "11": "Have you become inattentive and find it difficult to concentrate and focus on your work?",
+          "12": "Do you have difficulty memorizing information?",
+          "13": "Do you often feel depressed?",
+          "14": "Does drowsiness bother you?",
+          "15": "Do you periodically feel pain in the heart area, although the cardiogram is normal?"
+        },
+        "answers": {
+          "positive": "Yes",
+          "negative": "No"
+        },
+        "results": {
+          "normal": {
+            "title": "(Normal)",
+            "description": "Congratulations, there is nothing wrong with your thyroid gland!"
+          },
+          "medium": {
+            "score": "3",
+            "title": "(Medium)",
+            "description": "You should consider visiting an endocrinologist and having your thyroid function checked. The sooner you check your thyroid condition, the sooner you will receive proper treatment and avoid serious health problems."
+          },
+          "bad": {
+            "score": "5",
+            "title": "(Bad)",
+            "description": "It is highly likely that you have abnormalities in the endocrine system. You should visit an endocrinologist and have your thyroid function checked. Most often, diagnostics begins with an ultrasound examination of the organ and a TSH level test."
+          },
+          "critical": {
+            "score": "10",
+            "title": "(Critical)",
+            "description": "An appointment with an endocrinologist cannot be postponed! You have signs of thyroid dysfunction."
+          }
+        }
+      }
+    },
+    "Monitoring": {
+      "title": "Ultrasound. Aspiration\nbiopsy. Oncoscreening.",
+      "action": "How is it done?",
+      "Ultrasound": {
+        "title": "Thyroid gland ultrasound.\nWhat you want to know",
+        "description": "Ultrasound helps to detect various problems, such as nodules,\ncysts, or tumors in the thyroid gland. It can be useful for\nmonitoring already known conditions.",
+        "action": "Learn more",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      },
+      "Biopsy": {
+        "title": "Thyroid aspiration biopsy\nof the thyroid gland",
+        "description": "This method is an important tool in the diagnosis of various\nthyroid diseases, including hyperthyroidism, hypothyroidism,\nthyroid goiters, and thyroid cancer.",
+        "action": "Learn more",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      },
+      "Oncoscreening": {
+        "title": "Oncoscreening\nfor thyroid cancer",
+        "description": "Oncoscreening helps to detect various problems, such as\nneoplasms, tumors, or abnormalities in the thyroid gland.\nIt can be useful for monitoring already known conditions.",
+        "action": "Learn more",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      }
+    },
+    "Tells": {
+      "title": "Stories of people\nwho have been screened",
+      "description": "I want to tell you about how a screening colonoscopy\nsaved my life. For two years, my doctor kept reminding me\nthat I needed to have a colonoscopy...",
+      "action": "Read more",
+      "more": {
+        "1": {
+          "title": "Lorem ipsum dolor sit amet",
+          "description": {
+            "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+          }
+        },
+        "2": {
+          "title": "Lorem ipsum dolor sit amet",
+          "description": {
+            "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          }
+        }
+      }
+    }
+  },
+  "Footer": {
+    "about": {
+      "title": "About us",
+      "description": "IBD.Team initiated the Intercept Cancer and Oncofighters program to achieve success in the fight against cancer.",
+      "goal": "Our mission is to provide everyone with the necessary tools to detect cancer early and reduce the risk of developing the disease so that you can live longer and better."
+    },
+    "schedule": {
+      "title": "Work schedule",
+      "description": {
+        "weekdays": {
+          "title": "Monday-Friday:",
+          "description": "08:00 - 19:00"
+        },
+        "saturday": {
+          "title": "Saturday:",
+          "description": "08:00 - 14:00"
+        },
+        "sunday": {
+          "title": "Sunday:",
+          "description": "Weekend"
+        }
+      }
+    },
+    "map": "https://i.ibb.co/yXfTLMw/Map-en-US.png",
+    "copyright": "IBD Team© 2024\nAll rights reserved.",
+    "contact": {
+      "title": "Contact number",
+      "description": "+38 (063) 310 31 03"
+    },
+    "address": {
+      "title": "Address",
+      "description": "Zaporizhzhya city, Soborniy avenue, 173"
+    },
+    "action": "Go back to the top"
+  },
+  "Admin": {
+    "login": {
+      "title": "Admin panel",
+      "password": "Password",
+      "action": {
+        "confirm": {
+          "default": "Confirm",
+          "pending": "Confirmation..."
+        }
+      }
+    },
+    "action": {
+      "add": "Add",
+      "delete": "Delete",
+      "save": {
+        "default": "Save",
+        "pending": "Saving...",
+        "completed": "Saved"
+      }
+    },
+    "field": {
+      "image": {
+        "error": "Please choose images only"
+      }
+    }
+  }
+}

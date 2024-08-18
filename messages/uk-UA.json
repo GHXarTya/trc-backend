@@ -1,0 +1,319 @@
+{
+  "Metadata": {
+    "title": "Рак щитоподібної залози",
+    "description": "Злоякісна пухлина щитоподібної залози, що походить з фолікулярних або С-клітин щитоподібної залози та є найпоширенішим злоякісним новоутоворенням серед інших органів ендокринної системи."
+  },
+  "Header": {
+    "appointment": {
+      "name": "Ваше Ім’я *",
+      "phone": "Ваш телефон *",
+      "email": "Ваш email",
+      "action": {
+        "book": {
+          "default": "Записатись на прийом",
+          "time": "Записатись на прийом о {time}"
+        },
+        "continue": "Продовжити запис",
+        "call": "Передзвонить мені",
+        "repeat": "Спробувати ще раз"
+      },
+      "error": {
+        "schedule": "Неможливо завантажити розклад на цей день. Спробуйте, будь ласка, ще раз",
+        "appointment": "Не вдалося записатись на прийом. Спробуйте, будь ласка, ще раз",
+        "occupied": "Обранний час вже зайнято. Спробуйте, будь ласка, ще раз",
+        "call": "Не вдалося зареєструвати заявку. Спробуйте, будь ласка, ще раз"
+      },
+      "warning": {
+        "schedule": "На обрану дату немає вільних місць. Виберіть, будь ласка, іншу дату"
+      },
+      "result": {
+        "title": "Дякуемо!",
+        "description": {
+          "appointment": "Ваш запис {date}.",
+          "call": "Ми вам передзвонимо для уточнення деталей."
+        },
+        "action": "Закрити"
+      }
+    },
+    "action": "Нагору"
+  },
+  "Sections": {
+    "Hero": {
+      "title": "Про рак\nЩітоподібної залози",
+      "description": "Проєкт <important>Ефект метелика</important> від <important>IBD.Team Group</important>, присвячений тому,\nщоб допомогти пацієнтам із захворюваннями щитоподібної залози\nжити повноцінно. Ми віримо, що ці люди можуть і повинні\nпочуватися краще і вести нормальне життя без\nсимптомів захворювань.",
+      "action": "Дізнатись більше"
+    },
+    "Hyper": {
+      "title": "Посилання"
+    },
+    "News": {
+      "title": "Новини",
+      "newsfeed": {
+        "1": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - переможемо\nрак разом!",
+          "action": "Читати далі",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        },
+        "2": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - переможемо\nрак разом!",
+          "action": "Читати далі",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        },
+        "3": {
+          "image": "",
+          "date": "2023-10-28",
+          "title": "Oncofighters - переможемо\nрак разом!",
+          "action": "Читати далі",
+          "more": {
+            "1": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+              }
+            },
+            "2": {
+              "title": "Lorem ipsum dolor sit amet",
+              "description": {
+                "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+              }
+            }
+          }
+        }
+      }
+    },
+    "Test": {
+      "title": "Здорова ли\nваша щітоподібна залоза?",
+      "description": "На ранніх стадіях раку людина може не відчувати жодних\nсимптомів. Тому так важливо виявити захворювання на\nранньому етапі.",
+      "action": {
+        "start": "Пройти тест",
+        "end": "Запис на прийом"
+      },
+      "active": {
+        "title": {
+          "start": "Питання",
+          "end": "Результати тесту"
+        },
+        "questions": {
+          "1": "Чи буває у Вас утруднення ковтання або відчуття \"грудки в горлі\"?",
+          "2": "Чи помічаєте Ви сухість шкіри, а також ламкість або випадіння волосся останнім часом?",
+          "3": "Чи порушився у Вас менструальний цикл?",
+          "4": "Чи бувають у Вас тривалі (довше двох днів) проблеми з кишківником (закреп або діарея)?",
+          "5": "Останнім часом Ви відчуваєте постійну втому навіть після повноцінного сну?",
+          "6": "Чи були у Ваших близьких родичів проблеми зі щитоподібною залозою?",
+          "7": "Чи виникають у Вас необґрунтовані емоційні сплески: підвищена дратівливість, плаксивість тощо?",
+          "8": "Чи часто у Вас виникає тремтіння в руках і тілі?",
+          "9": "Чи помічали Ви останнім часом незрозумілі стрибки ваги в той чи інший бік?",
+          "10": "Ви помітили, що стали гірше виглядати? Спостерігаєте у себе набряклість обличчя або припухлість під повіками?",
+          "11": "Ви стали неуважними, Вам складно сконцентруватися і зосередитися на роботі?",
+          "12": "Чи виникають у Вас труднощі із запам'ятовуванням інформації?",
+          "13": "Чи часто у Вас виникає пригнічений настрій?",
+          "14": "Чи турбує Вас сонливість?",
+          "15": "Періодично відчуваєте болі в ділянці серця, хоча кардіограма в нормі?"
+        },
+        "answers": {
+          "positive": "Так",
+          "negative": "Ні"
+        },
+        "results": {
+          "normal": {
+            "title": "(Нормальний)",
+            "description": "Вітаємо, з вашою щитовидною залозою все гаразд!"
+          },
+          "medium": {
+            "score": "3",
+            "title": "(Середній)",
+            "description": "Вам варто задуматися про відвідування ендокринолога та перевірку функції щитоподібної залози. Що раніше Ви перевірите стан своєї щитовидки, то швидше отримаєте правильне лікування й уникнете серйозних проблем зі здоров'ям."
+          },
+          "bad": {
+            "score": "5",
+            "title": "(Поганий)",
+            "description": "З високою ймовірністю у Вас є відхилення в роботі ендокринної системи. Вам варто відвідати ендокринолога і перевірити функції щитоподібної залози. Найчастіше діагностика починається з УЗД обстеження органу та перевірки рівня ТТГ."
+          },
+          "critical": {
+            "score": "10",
+            "title": "(Критичний)",
+            "description": "Зустріч з ендокринологом відкладати не можна! У Вас спостерігаються ознаки зниження функції щитоподібної залози."
+          }
+        }
+      }
+    },
+    "Monitoring": {
+      "title": "УЗД. Тонкогольна аспiрацiйна\nбiопсiя. Онкоскринiнг.",
+      "action": "Як це робиться?",
+      "Ultrasound": {
+        "title": "УЗД щітоподібної залози.\nТо, що ви хотіли би знати",
+        "description": "УЗД допомагає виявити різні проблеми, такі як вузли, цисти\nабо пухлини в щитоподібній залозі. Це може бути корисним\nдля моніторингу вже відомих умов.",
+        "action": "Дізнатись більше",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      },
+      "Biopsy": {
+        "title": "Тонкогольна аспiрацiйна\nбiопсiя щитовидної залізи",
+        "description": "Цей метод є важливим інструментом в діагностиці різних\nзахворювань щитовидної залози, включаючи гіпертіреоз,\nгіпотиреоз, гузи щитовидної залози та рак щитовидної залози.",
+        "action": "Дізнатись більше",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      },
+      "Oncoscreening": {
+        "title": "Онкоскринінг раку\nщітоподібної залози",
+        "description": "Онкоскринінг допомагає виявити різні проблеми, такі як\nновоутворення, пухлини або аномалії в щитоподібній залозі.\nЦе може бути корисним для моніторингу вже відомих умов.",
+        "action": "Дізнатись більше",
+        "more": {
+          "1": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+              "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+            }
+          },
+          "2": {
+            "title": "Lorem ipsum dolor sit amet",
+            "description": {
+              "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            }
+          }
+        }
+      }
+    },
+    "Tells": {
+      "title": "Історіі людей, що\nпроходили скрінінг",
+      "description": "Я хочу розповісти про те, як скринінгова колоноскопія\nврятувала мені життя. Протягом двох років мій лікар постійно\nнагадував мені, що потрібно зробити колоноскопію...",
+      "action": "Читати далі",
+      "more": {
+        "1": {
+          "title": "Lorem ipsum dolor sit amet",
+          "description": {
+            "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "2": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus seconds."
+          }
+        },
+        "2": {
+          "title": "Lorem ipsum dolor sit amet",
+          "description": {
+            "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+          }
+        }
+      }
+    }
+  },
+  "Footer": {
+    "about": {
+      "title": "Про нас",
+      "description": "IBD.Team ініціював програму Intercept Cancer та Oncofighters для досягнення успіху у боротьбі з раком.",
+      "goal": "Наша місія – це надати всім охочим необхідні інструменти для раннього виявлення раку та зниження ризиків розвитку цього захворювання, щоб Ви могли жити довше та краще."
+    },
+    "schedule": {
+      "title": "Графік роботи",
+      "description": {
+        "weekdays": {
+          "title": "Понеділок-П’ятниця:",
+          "description": "08:00 - 19:00"
+        },
+        "saturday": {
+          "title": "Субота:",
+          "description": "08:00 - 14:00"
+        },
+        "sunday": {
+          "title": "Неділя:",
+          "description": "Вихідний"
+        }
+      }
+    },
+    "map": "https://i.ibb.co/cTtmX60/Map-uk-UA.jpg",
+    "copyright": "IBD Team© 2024\nAll rights reserved.",
+    "contact": {
+      "title": "Контактний номер",
+      "description": "+38 (063) 310 31 03"
+    },
+    "address": {
+      "title": "Адреса",
+      "description": "м. Запоріжжя, просп. Соборний, 173"
+    },
+    "action": "Повернутись нагору"
+  },
+  "Admin": {
+    "login": {
+      "title": "Адмін панель",
+      "password": "Пароль",
+      "action": {
+        "confirm": {
+          "default": "Підтвердити",
+          "pending": "Підтвердження..."
+        }
+      }
+    },
+    "action": {
+      "add": "Додати",
+      "delete": "Видалити",
+      "save": {
+        "default": "Зберегти",
+        "pending": "Збереження...",
+        "completed": "Збережено"
+      }
+    },
+    "field": {
+      "image": {
+        "error": "Будь ласка, обирайте лише зображення"
+      }
+    }
+  }
+}
