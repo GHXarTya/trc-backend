@@ -17,6 +17,7 @@
         "call": "Call me back",
         "repeat": "Try again"
       },
+      "hint": "* - required to be filled in",
       "error": {
         "schedule": "The schedule for this day could not be loaded. Please try again",
         "appointment": "An appointment could not be made. Please try again",
@@ -40,7 +41,7 @@
   "Sections": {
     "Hero": {
       "title": "About cancer\nOf the thyroid gland",
-      "description": "The <important>Butterfly Effect</important> project by <important>IBD.Team Group</important> is dedicated to\nhelping patients with thyroid disease live a full life. We believe\nthat these people can and should feel better and lead\na normal life without disease symptoms.",
+      "description": "The <important>Butterfly Effect</important> project by <important>IBD.Team Group</important> is dedicated to\nhelping patients with thyroid disease live a full life. We believe\nthat these people can and should feel better and lead a\nnormal life without disease symptoms.",
       "action": "Learn more"
     },
     "Hyper": {
