@@ -69,6 +69,10 @@
                 "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
               }
             }
+          },
+          "source": {
+            "link": "https://pdfobject.com/pdf/sample.pdf",
+            "text": "Link to the source"
           }
         },
         "2": {
@@ -90,6 +94,10 @@
                 "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
               }
             }
+          },
+          "source": {
+            "link": "https://pdfobject.com/pdf/sample.pdf",
+            "text": "Link to the source"
           }
         },
         "3": {
@@ -111,6 +119,10 @@
                 "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
               }
             }
+          },
+          "source": {
+            "link": "https://pdfobject.com/pdf/sample.pdf",
+            "text": "Link to the source"
           }
         }
       }
@@ -192,6 +204,10 @@
               "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
             }
           }
+        },
+        "source": {
+          "link": "https://pdfobject.com/pdf/sample.pdf",
+          "text": "Link to the source"
         }
       },
       "Biopsy": {
@@ -212,6 +228,10 @@
               "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
             }
           }
+        },
+        "source": {
+          "link": "https://pdfobject.com/pdf/sample.pdf",
+          "text": "Link to the source"
         }
       },
       "Oncoscreening": {
@@ -232,6 +252,10 @@
               "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
             }
           }
+        },
+        "source": {
+          "link": "https://pdfobject.com/pdf/sample.pdf",
+          "text": "Link to the source"
         }
       }
     },
@@ -253,6 +277,10 @@
             "1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
           }
         }
+      },
+      "source": {
+        "link": "https://pdfobject.com/pdf/sample.pdf",
+        "text": "Link to the source"
       }
     }
   },
